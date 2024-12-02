@@ -1,1 +1,1 @@
-sunnywang/redis-tools-ubuntu:v0.5.1
+nuptaxin/redis-cluster-proxy:v1.0.0
