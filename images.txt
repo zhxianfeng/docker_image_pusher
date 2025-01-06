@@ -1,1 +1,1 @@
-nuptaxin/redis-cluster-proxy:v1.0.0
+gitlab/gitlab-ce:latest
