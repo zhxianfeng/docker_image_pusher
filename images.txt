@@ -1,3 +1,1 @@
-sonatype/nexus3:3.68.0
-sonatype/nexus3:3.69.0
-sonatype/nexus3:3.70.0
+docker:24.0-dind
