@@ -1,2 +1,2 @@
-node:latest
-node:22
+docker:24.0
+bitnami/kubectl:1.26
