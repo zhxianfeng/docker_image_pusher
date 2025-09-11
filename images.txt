@@ -1,2 +1,5 @@
-docker:24.0
-bitnami/kubectl:1.26
+docker.io/mirantis/k8s-netchecker-server:v1.2.2
+k8s.gcr.io/coredns/coredns:v1.9.3
+k8s.gcr.io/kube-apiserver:v1.26.4
+k8s.gcr.io/kube-controller-manager:v1.26.4
+k8s.gcr.io/pause:3.8
