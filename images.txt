@@ -1,1 +1,1 @@
-eclipse-temurin:21-jre-alpine
+maven:3.9-eclipse-temurin-21
