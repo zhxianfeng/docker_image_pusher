@@ -1,1 +1,1 @@
-kubeoperator/kubepi-server
+phpmyadmin:5.2.2
