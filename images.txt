@@ -1,1 +1,1 @@
-chat2db/chat2db:latest
+eipwork/kuboard-spray-resource:spray-v2.21.0c_k8s-v1.26.4_v4.4-amd64
